@@ -61,6 +61,3 @@ To run the Spring Boot part, make sure it is accessible at [localhost:8082](http
 2. Log in to obtain a user token, which is required for certain features.
 3. Some features are accessible only with admin roles. Check the relevant service implementation in the [ServiceImpl folder]([https://github.com/Bahri-Adem/Cafe-Management-System-Angular-SpringBoot](https://github.com/Bahri-Adem/Cafe-Management-System-Angular-SpringBoot/blob/main/Backend/src/main/java/com/inn/cafe/serviceImpl)) to determine which functions require admin privileges.
 
-## Note
-
-This project was created for educational purposes and was developed based on the content of an educational course available on YouTube.
